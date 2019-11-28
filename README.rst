@@ -9,9 +9,9 @@ Quick Overview
 - dcm to png
 med2image -i PPMI_3651_MR_AX_FLAIR_br_raw_20110318143037130_5_S101918_I224251.dcm -d ../jpg -o %inputFile
 
--i dcm file in the folder 
--d ouput directory folder
--o output file system 
+- i dcm file in the folder 
+- d ouput directory folder
+- o output file system 
 
 Overview
 --------
